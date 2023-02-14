@@ -50,9 +50,7 @@ The execution of a Java program consists of five steps which are
 
 Here for the first step, we need to have a java source code otherwise we won't be able to run the program you need to save it with the program.java extension.
 Secondly, we need to use a compiler so that it compiles the source code which in turn gives out the java bytecode and that needs to have a program.class extension. 
-The Java bytecode is a redesigned version of the java source codes, and this bytecode can be run anywhere .
-
+The Java bytecode is a redesigned version of the java source codes, and this bytecode can be run anywhere 
 irrespective of the machine on which it has been built.
-Later on, we put the java bytecode through the Java Virtual Machine which is an interpreter that reads all the statements thoroughly step by step from the java bytecode which will further convert it to the machine-level language so that the machine can execute the code. We get the output only after the conversion is through.
 
 
