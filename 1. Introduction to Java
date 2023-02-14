@@ -15,3 +15,26 @@ In 1995 James gosling and his team were sitting in a meeting room to discuss a u
 In that meeting they were served coffee which was liked by everyone and when they asked the waiter about coffee waiter said it was made of Java beans .
 So in that meeting they decided to remame it to Java in 1995.
 So you can see the logo of java which has a cup and coffe. 
+
+
+Features of Java:
+Following are the notable features of Java:
+
+
+-> The first and foremost reason is the platform independent feature of Java. 
+Platform independent means programmers who developed their software in one platform can execute it on any platform or operating system 
+regardless of underlying configuration, because of Java Virtual Machine. 
+In other words, we can say that Java follows WORA rule which says Write Once Run Anywhere.
+
+-> Object Oriented
+
+-> Java is secure :When a new code is compiled in java, 
+it converts it into a Byte-code class file which is checked by the JVM for erroneous access to unauthorised data.
+
+-> Java also provides a multi-threading feature through which we can create multiple threads under any process which works independently and simultaneously. 
+Other than these, the performance of Java is also impressive.
+
+-> Automatic Garbage collection : is the process by which Java programs perform automatic memory management.
+In C/C++, a programmer is responsible for both the creation and destruction of objects. Usually, programmer neglects the destruction of useless objects. Due to this negligence, at a certain point, 
+sufficient memory may not be available to create new objects, and the entire program will terminate abnormally, causing OutOfMemoryErrors.
+
