@@ -38,3 +38,21 @@ Other than these, the performance of Java is also impressive.
 In C/C++, a programmer is responsible for both the creation and destruction of objects. Usually, programmer neglects the destruction of useless objects. Due to this negligence, at a certain point, 
 sufficient memory may not be available to create new objects, and the entire program will terminate abnormally, causing OutOfMemoryErrors.
 
+
+The execution of a Java program consists of five steps which are
+
+1. Creation of a Java Program
+2. Compiling a Java program,
+3. Loading the program into the memory by Java Virtual Machine,
+4. Java Virtual Machine verification for bytecode,
+5. Java Program execution
+
+
+Here for the first step, we need to have a java source code otherwise we won't be able to run the program you need to save it with the program.java extension.
+Secondly, we need to use a compiler so that it compiles the source code which in turn gives out the java bytecode and that needs to have a program.class extension. 
+The Java bytecode is a redesigned version of the java source codes, and this bytecode can be run anywhere .
+
+irrespective of the machine on which it has been built.
+Later on, we put the java bytecode through the Java Virtual Machine which is an interpreter that reads all the statements thoroughly step by step from the java bytecode which will further convert it to the machine-level language so that the machine can execute the code. We get the output only after the conversion is through.
+
+
